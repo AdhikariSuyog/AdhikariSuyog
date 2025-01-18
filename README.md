@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello, I'm Suyog Adhikari
 
-<!--
-**AdhikariSuyog/AdhikariSuyog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 **Based in Nepal**  
+🎓 **Associate Software Engineer**
 
-Here are some ideas to get you started:
+I am a dedicated and skilled Associate Software Engineer with extensive experience in backend development, specializing in Java, Spring Boot, Micronaut, and PostgreSQL. I excel at designing and implementing REST APIs and gRPC APIs to create scalable and maintainable systems. With expertise in Clean Architecture, secure payment gateway integration, and database optimization, I am passionate about solving real-world problems and continuously advancing my knowledge of emerging technologies to deliver impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Skills
+
+- **Languages**: Java (11, 17, 21)
+- **Frameworks**: Spring Boot, Micronaut
+- **Database**: PostgreSQL, SQL (CRUD Operations)
+- **gRPC & Proto**: Communication protocols using gRPC and Proto files
+- **Containerization**: Docker
+- **Testing**: JUnit, Micronaut Test
+
+
+## 📫 Contact
+
+- **Email**: [suyogadhikari789@gmail.com](mailto:suyogadhikari789@gmail.com)
+- **LinkedIn**: [linkedin.com/in/suyoga](https://linkedin.com/in/suyoga)
+
+---
+
+## 🚀 Let's Connect!
+
+Feel free to reach out to me via email or LinkedIn for collaborations, opportunities, or anything else!
